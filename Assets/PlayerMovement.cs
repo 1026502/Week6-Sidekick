@@ -32,6 +32,10 @@ public class PlayerMovement : MonoBehaviour
     //Swinging
     public float swingSpeedMax;
 
+
+    // Mouse sens
+   // public float mouseSens;
+
     // Start is called before the first frame update
     void Start()
     {

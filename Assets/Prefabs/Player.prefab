@@ -472,6 +472,7 @@ MonoBehaviour:
   airmultiplier: 0.5
   rdyjump: 1
   swingSpeedMax: 8
+  mouseSens: 0.5
 --- !u!114 &2672922357681381350
 MonoBehaviour:
   m_ObjectHideFlags: 0

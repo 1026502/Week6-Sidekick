@@ -785,6 +785,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 440c120821d8ed44c9916bada28c84e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  menuManager: {fileID: 0}
 --- !u!1 &1119334553
 GameObject:
   m_ObjectHideFlags: 0
@@ -930,7 +931,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1450115246}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 2
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 1
@@ -951,7 +952,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ps: {fileID: 0}
-  moveSpeed: 3
+  moveSpeed: 5
   orientation: {fileID: 1023112381}
   playerheight: 4
   groundDrag: 5
@@ -963,7 +964,7 @@ MonoBehaviour:
   jumpcd: 0.5
   airmultiplier: 0.5
   rdyjump: 1
-  swingSpeedMax: 6
+  swingSpeedMax: 10
 --- !u!120 &1450115250
 LineRenderer:
   m_ObjectHideFlags: 0

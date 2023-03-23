@@ -1557,6 +1557,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2672922357681381348, guid: ad55be032d024f64db2f609b5cfee7fe, type: 3}
+      propertyPath: mouseSens
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 2672922357681381348, guid: ad55be032d024f64db2f609b5cfee7fe, type: 3}
+      propertyPath: swingSpeedMax
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2672922357681381349, guid: ad55be032d024f64db2f609b5cfee7fe, type: 3}
+      propertyPath: m_Mass
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 2672922357681381370, guid: ad55be032d024f64db2f609b5cfee7fe, type: 3}
       propertyPath: m_RootOrder
       value: 7
